@@ -28,4 +28,6 @@ npm start
 ```
 http://localhost:port-number
 ```
+##Deployment link:
+https://fkart-app.netlify.app/
 
