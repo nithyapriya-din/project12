@@ -29,17 +29,3 @@ npm start
 http://localhost:port-number
 ```
 
-## Paste the link in browser and done !
-
-# Additional repositories that make it functional :
-
-Data Repo
-
-Contains tools and scripts that I wrote to filter out and modify scrapped data [here](https://github.com/nithyapriya-din/project12)
-
-APIs Repo
-
-Contains the REST APIs that this app consumes [here](https://github.com/nithyapriya-din)
-
-
-
