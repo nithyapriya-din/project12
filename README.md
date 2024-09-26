@@ -28,6 +28,7 @@ npm start
 ```
 http://localhost:port-number
 ```
-##Deployment link:
+##Deployment link: FRONTEND:
 https://fkart-app.netlify.app/
+BACKEND:https://flipkart-lit.onrender.com/
 
